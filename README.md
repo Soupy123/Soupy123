@@ -8,4 +8,4 @@ These are the technologies I am somewhat familiar with <br>
 # 📧 Contact Me
 <b>Email</b> `evanrohrbough@gmail.com`
 <br>
-<b>Discord</b>`soupy#9827`
+<b>Discord</b> `soupy#9827`
